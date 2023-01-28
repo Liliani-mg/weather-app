@@ -1,7 +1,7 @@
 # ClimApp
 
 <div >
- <a href="weather-app-phi-vert.vercel.app" > <img src= "https://static.vecteezy.com/system/resources/previews/009/277/846/non_2x/clouds-and-sky-weather-nature-background-horizontal-banner-illustration-vector.jpg" /></a>
+ <a href="https://weather-app-phi-vert.vercel.app/" > <img src= "https://static.vecteezy.com/system/resources/previews/009/277/846/non_2x/clouds-and-sky-weather-nature-background-horizontal-banner-illustration-vector.jpg" /></a>
   </div>
   <hr/>
 <a href="weather-app-phi-vert.vercel.app"><h4>URL from this project </h4></a>
